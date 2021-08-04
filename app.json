@@ -30,7 +30,7 @@
       "value": ""
     },
     "FROM_CHANNEL": {
-      "description": "enter Channel username Eg:- @abcdefghijk",
+      "description": "enter Channel username Eg:- -100xxxxxxxxx",
       "value": ""
     },
     "OWNER_ID": {
